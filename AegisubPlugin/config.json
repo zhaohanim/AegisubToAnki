@@ -1,0 +1,11 @@
+{
+    "deck_name": "xxx",
+    "model_name": "xxx",
+    "field":
+    {
+        "Audio":"Audio",
+        "SnapShot":"Snapshot",
+        "Meaning":"Meaning",
+        "Note":"Notes"
+    }
+}
